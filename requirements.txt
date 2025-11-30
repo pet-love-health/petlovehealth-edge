@@ -1,2 +1,3 @@
 # Requirements for PetLoveHealth Edge App
 paho-mqtt==1.6.1
+requests
